@@ -1,1 +1,1 @@
-console.log(`You touch my tralalala, and my ding ding dong!;P`)
+console.log(`You touch my tralalala, und my ding ding dong!`)
